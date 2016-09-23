@@ -1,0 +1,14 @@
+{
+  "name": "bmsn",
+  "version": "1.0.0",
+  "description": "Battery Monitoring Sensor Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Mwila",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^4.0.1"
+  }
+}
